@@ -39,4 +39,30 @@ burger
   # | Newyork  | 2           | 3000           |
   # | Kansas   | 3           | 1000           |
   # | Missouri | 1           | 500            |
+  
+  ***
+  # Code fencing
+  > C++ was designed with a bias toward system programming and embedded, resource-constrained software and large systems, with performance, efficiency, and flexibility of use as its design highlights.
+  ```
+  #include <iostream>
+using namespace std;
+
+int main()
+{
+    int firstNumber, secondNumber, sumOfTwoNumbers;
+    
+    cout << "Enter two integers: ";
+    cin >> firstNumber >> secondNumber;
+
+    // sum of two numbers in stored in variable sumOfTwoNumbers
+    sumOfTwoNumbers = firstNumber + secondNumber;
+
+    // Prints sum 
+    cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers;     
+
+    return 0;
+}
+```
+[code](https://www.programiz.com/cpp-programming/examples/add-numbers)
+
 
