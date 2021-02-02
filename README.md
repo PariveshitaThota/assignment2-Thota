@@ -32,4 +32,11 @@ burger
     >
     > A little progress each day adds up to big results
 
+    ***
+    In this table, the first column consists of location and the second will be the number of hours that a visitor should spend in the location and the last column consists of the amount of money someone should expect to pay
+    | location | No of hours | Amount of money|
+  # | Florida  | 5           | 2000           |
+  # | Newyork  | 2           | 3000           |
+  # | Kansas   | 3           | 1000           |
+  # | Missouri | 1           | 500            |
 
