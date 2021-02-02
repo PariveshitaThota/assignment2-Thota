@@ -26,4 +26,10 @@ burger
     * return the book at the time of  issued date<br>
     [AboutMe](https://github.com/PariveshitaThota/assignment2-Thota/blob/main/AboutMe.md)
 
+    ***
+    # Quotes
+    > Always turn a negative situation into a positive situation
+    >
+    > A little progress each day adds up to big results
+
 
