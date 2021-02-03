@@ -65,4 +65,12 @@ int main()
 ```
 [code](https://www.programiz.com/cpp-programming/examples/add-numbers)
 
+***
+
+### Bonus
+
+![Florida](Images\florida.jpg)
+![Kansas](Images\kansas.jpg)
+![Missouri](Images\Missouri.jpeg)
+![Newyork](Images\Newyork.jpg)
 
